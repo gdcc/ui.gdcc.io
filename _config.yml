@@ -1,0 +1,6 @@
+locale: "en-US"
+title: "UI Components Working Group [Draft Website]"
+description: "The Dataverse Containerization Working Group aims to run the Dataverse software within containers, useful for many different scenarios from development to production."
+github: [metadata]
+plugins:
+    - jekyll-seo-tag
