@@ -14,19 +14,23 @@ The goals of this group are to:
 - Share information about the new front end and the API as it is developed
 
 
-## Working group meetings
+##  Group meetings
 
 We welcome anyone to join our meetings! We meet monthly on Monday 9AM Eastern.
 
 The Zoom link is <https://harvard.zoom.us/j/96481949177?pwd=bWZiVlNvamZJWEFyQTl2RFBXd2g3UT09>
 
-Our next meeting is on Monday, February 5th, 2024 at 9AM Eastern.
-[Agenda & Notes](https://docs.google.com/document/d/1TjC_PUKy7j6GsRikUxx28I6lQ4WAkRpBJZXrxpvaO7A/edit?usp=sharing)
 
-**We will have a special hybrid meeting Wednesday, March 6th, 2024 at 8AM CST, at the [Dataverse Community Meeting](https://sites.harvard.edu/dcm2024/)
-([Zoom Link](https://harvard.zoom.us/j/96481949177?pwd=bWZiVlNvamZJWEFyQTl2RFBXd2g3UT09))**
+### Upcoming meetings
 
-Links agendas, notes and recordings of previous meetings [in our Google Drive folder](https://drive.google.com/drive/folders/1AS8-MW1wncWH5zIdNPquBkLU8BM32MeR)
+- **We will have a special hybrid meeting Wednesday, March 6th, 2024 at 8AM CST, at the [Dataverse Community Meeting](https://sites.harvard.edu/dcm2024/)
+  ([Zoom Link](https://harvard.zoom.us/j/96481949177?pwd=bWZiVlNvamZJWEFyQTl2RFBXd2g3UT09))**
+- [2024-04-08, 09:00 Eastern](https://time.is/compare/0900_08_Apr_2024_in_Boston)
+- [2024-05-06, 09:00 Eastern](https://time.is/compare/0900_06_May_2024_in_Boston)
+
+### Previous meetings
+- [2024-02-05, 09:00 Eastern](https://time.is/compare/0900_05_Feb_2024_in_Boston) meeting:  [notes](https://docs.google.com/document/d/1TjC_PUKy7j6GsRikUxx28I6lQ4WAkRpBJZXrxpvaO7A/edit?usp=sharing), [recording](https://harvard.zoom.us/rec/share/y_KpHwH8yq0fn1ny301W5D782pItG_s8DPoPidmo9NL5shme-BLcTSIEJsAIv4U.M4yHsAzl8F0Cb8y_)
+- Agendas, notes and recordings of older meetings [in our Google Drive folder](https://drive.google.com/drive/folders/1AS8-MW1wncWH5zIdNPquBkLU8BM32MeR)
 
 
 
