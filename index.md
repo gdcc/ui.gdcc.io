@@ -11,7 +11,7 @@ This group will focus on the new frontend, and the new API to support it.
 
 The goals of this group are to:
 - Understand the needs of the community
-- Share information about the new front end and the API as it is developed
+- Share information about the new frontend and the API as it is developed
 
 
 ##  Group meetings
@@ -44,8 +44,8 @@ Please join us in [Zulip](https://dataverse.zulipchat.com/#narrow/stream/410361-
 
 - [Restructuring the Dataverse as a Single Page Application](https://docs.google.com/document/d/19pbENuYyHErEmblbFGQ47_uJpTfqVKbn9O0QftVqeeU/edit?usp=sharing)
 
-### Demos of the new Dataverse Front End (SPA)
-- [Demo 1]( https://drive.google.com/file/d/1T31O6VPsA2rmVeAVlt13W528xrgjJ9vj/view?usp=sharing) - Integration of the Single Page Application with exisiting JSF front end, and the new View Dataset Page
+### Demos of the new Dataverse Frontend (SPA)
+- [Demo 1]( https://drive.google.com/file/d/1T31O6VPsA2rmVeAVlt13W528xrgjJ9vj/view?usp=sharing) - Integration of the Single Page Application with exisiting JSF frontend, and the new View Dataset Page
 - [Demo 2](https://drive.google.com/file/d/1uo3wJM4wlLpPouGM4zbxCAy2pCIjXfFn/view?usp=sharing) - The files table feature in the new View Dataset Page
 
 
