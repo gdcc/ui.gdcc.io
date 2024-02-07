@@ -1,5 +1,5 @@
 locale: "en-US"
-title: "Dataverse Front End Development Interest Group"
-description: "The Dataverse Front End Development Working Group Description"
+title: "Dataverse Frontend Development Interest Group"
+description: "The Dataverse Frontend Development Working Group Description"
 plugins:
     - jekyll-seo-tag
