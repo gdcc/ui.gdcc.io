@@ -24,8 +24,8 @@ The Zoom link is <https://harvard.zoom.us/j/96481949177?pwd=bWZiVlNvamZJWEFyQTl2
 ### Upcoming meetings
 
 - **We will have a special hybrid meeting Wednesday, March 6th, 2024 at 8AM CST, at the [Dataverse Community Meeting](https://sites.harvard.edu/dcm2024/)
-  ([Zoom Link](https://harvard.zoom.us/j/96481949177?pwd=bWZiVlNvamZJWEFyQTl2RFBXd2g3UT09))**
-- [2024-04-08, 09:00 Eastern](https://time.is/compare/0900_08_Apr_2024_in_Boston)
+  ([Zoom Link](https://harvard.zoom.us/j/96481949177?pwd=bWZiVlNvamZJWEFyQTl2RFBXd2g3UT09)) [Meeting Agenda](https://docs.google.com/document/d/1eVUIliCmcUw4S6ihILE8AKRdyEZSi75bVCKtLav0ZKE/edit?usp=sharing)**
+- [2024-04-08, 09:00 Eastern](https://time.is/compare/0900_08_Apr_2024_in_Boston) 
 - [2024-05-06, 09:00 Eastern](https://time.is/compare/0900_06_May_2024_in_Boston)
 
 ### Previous meetings
