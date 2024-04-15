@@ -42,6 +42,7 @@ Please join us in [Zulip](https://dataverse.zulipchat.com/#narrow/stream/410361-
 ## References
 
 - [Restructuring the Dataverse as a Single Page Application](https://docs.google.com/document/d/19pbENuYyHErEmblbFGQ47_uJpTfqVKbn9O0QftVqeeU/edit?usp=sharing)
+- [DCM 2024 Presentation Slides - Developer's Guide to SPA Architecture](https://docs.google.com/presentation/d/1c7_O4yh58kDPblGFNT0W8DhHBR7aA6gxs3BMbSW1rlc/edit?usp=drive_link)
 
 ### Demos of the new Dataverse Frontend (SPA)
 - [Demo 1]( https://drive.google.com/file/d/1T31O6VPsA2rmVeAVlt13W528xrgjJ9vj/view?usp=sharing) - Integration of the Single Page Application with exisiting JSF frontend, and the new View Dataset Page
