@@ -26,7 +26,7 @@ The Zoom link is <https://harvard.zoom.us/j/96481949177?pwd=bWZiVlNvamZJWEFyQTl2
 
 
 ### Previous meetings
-- [2024-05-14, 09:00 Eastern](https://time.is/compare/0900_14_May_2024_in_Boston) - [Meeting Agenda](https://docs.google.com/document/d/1uyP684naukSucYSmnyOg8Mq54gF3VTV_ldeKxHVoZ1c/edit?usp=sharing)
+- [2024-05-14, 09:00 Eastern](https://time.is/compare/0900_14_May_2024_in_Boston) - [Meeting Agenda](https://docs.google.com/document/d/1uyP684naukSucYSmnyOg8Mq54gF3VTV_ldeKxHVoZ1c/edit?usp=sharing), [recording](https://harvard.zoom.us/rec/share/fTibSBVdlO7RyYWaGF9OLeYcjl3yn6TTomoG_tF0CTJWOx8VRTw7vo4rJZaWw6Ee.-I86QN__p4rqG2p2)
 - [2024-04-15, 09:00 Eastern](https://time.is/compare/0900_15_Apr_2024_in_Boston) - [Meeting Agenda](https://docs.google.com/document/d/1mt2lmjiqWCHIdhfnJ4bDGVLSO4r8CUV-DqRA8StIfAE/edit?usp=sharing), [recording](https://harvard.zoom.us/rec/share/ADr5f33FfcAFTMwQkxw3gy1Jxc9hr9VWYDr6vu6l-XQHG0C1ebaFah5h65js8FuR.Vnn-nM_7me_5a8Sy), [slides](https://drive.google.com/file/d/1sKpfvkAh73HzQT6CObmZJ93H6hvAgi_2/view?usp=drive_link)
 - [2024-03-06, 09:00 Eastern](https://time.is/compare/0900_03_Mar_2024_in_Boston) -  [Meeting Agenda](https://docs.google.com/document/d/1eVUIliCmcUw4S6ihILE8AKRdyEZSi75bVCKtLav0ZKE/edit?usp=sharing)
 - [2024-02-05, 09:00 Eastern](https://time.is/compare/0900_05_Feb_2024_in_Boston) - [notes](https://docs.google.com/document/d/1TjC_PUKy7j6GsRikUxx28I6lQ4WAkRpBJZXrxpvaO7A/edit?usp=sharing), [recording](https://harvard.zoom.us/rec/share/y_KpHwH8yq0fn1ny301W5D782pItG_s8DPoPidmo9NL5shme-BLcTSIEJsAIv4U.M4yHsAzl8F0Cb8y_)
