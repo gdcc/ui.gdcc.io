@@ -1,6 +1,6 @@
 # ui.gdcc.io
 
-The source for https://ui.gdcc.io, the website for the UI Components Working Group.
+The source for https://ui.gdcc.io, the website for the Frontend Development Interest Group.
 
 ## Contributing
 
